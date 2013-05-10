@@ -271,7 +271,7 @@
     <!-- NAVBAR
     ================================================== -->
     <div class="navbar-wrapper">
-		<?=$my_name?>
+		<b><?=$my_name?></b>
       <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
       <div class="container">
 
