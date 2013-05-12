@@ -318,7 +318,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="../assets/img/examples/slide-01.jpg" alt="">
+          <img src="/graphics/img/af1.jpg" alt="example pic">
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
