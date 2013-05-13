@@ -48,10 +48,23 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
+// take parameters for cleardb heroku addon
+$url=parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+if (empty($url['host'])) {
+	// development environment
+	$db['default']['hostname'] = 'localhost';
+	$db['default']['username'] = 'webuser';
+	$db['default']['password'] = '21vubiconeversleeps12';
+	$db['default']['database'] = 'vubico';
+} else {
+	// production environment
+	$db['default']['hostname'] = $url["host"];
+	$db['default']['username'] = $url["user"];
+	$db['default']['password'] = $url["pass"];
+	$db['default']['database'] = substr($url["path"],1);
+}
+
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
