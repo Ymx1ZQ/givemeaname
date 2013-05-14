@@ -5,6 +5,23 @@ SET foreign_key_checks = 0;
 SET time_zone = 'SYSTEM';
 SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
 
+DROP TABLE IF EXISTS `children`;
+CREATE TABLE `children` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_id` int(11) NOT NULL,
+  `first_name` varchar(100) NOT NULL,
+  `surname` varchar(100) NOT NULL,
+  `organization_id` int(11) NOT NULL,
+  `money_collected` int(11) NOT NULL,
+  `money_paid` int(11) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `name_id` (`name_id`),
+  KEY `organization_id` (`organization_id`),
+  CONSTRAINT `children_ibfk_1` FOREIGN KEY (`name_id`) REFERENCES `names` (`id`) ON DELETE CASCADE,
+  CONSTRAINT `children_ibfk_2` FOREIGN KEY (`organization_id`) REFERENCES `organizations` (`id`) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
 DROP TABLE IF EXISTS `ci_sessions`;
 CREATE TABLE `ci_sessions` (
   `session_id` varchar(40) NOT NULL DEFAULT '0',
@@ -14,6 +31,22 @@ CREATE TABLE `ci_sessions` (
   `user_data` text NOT NULL,
   PRIMARY KEY (`session_id`),
   KEY `last_activity_idx` (`last_activity`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `donations`;
+CREATE TABLE `donations` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `name_id` int(11) NOT NULL,
+  `amount` int(11) NOT NULL,
+  `comment` text NOT NULL,
+  `video_link` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `user_id` (`user_id`),
+  KEY `name_id` (`name_id`),
+  CONSTRAINT `donations_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE,
+  CONSTRAINT `donations_ibfk_2` FOREIGN KEY (`name_id`) REFERENCES `names` (`id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
@@ -40,6 +73,33 @@ CREATE TABLE `meta` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
+DROP TABLE IF EXISTS `names`;
+CREATE TABLE `names` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `organizations`;
+CREATE TABLE `organizations` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `posts`;
+CREATE TABLE `posts` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `child_id` int(11) NOT NULL,
+  `text` text NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `child_id` (`child_id`),
+  CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`child_id`) REFERENCES `children` (`id`) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
 DROP TABLE IF EXISTS `users`;
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -63,4 +123,4 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
--- 2013-05-13 04:30:55
+-- 2013-05-14 01:13:04
