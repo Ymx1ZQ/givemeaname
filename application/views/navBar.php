@@ -20,8 +20,8 @@
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">About</a></li>
+                <li class="active"><a href="/home/index">Home</a></li>
+                <li><a href="/home/about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
                 <!--<li class="dropdown">
@@ -37,8 +37,8 @@
                   </ul>
                 </li>
                 -->
-                <li><a href="#">Sign in</a></li>
-                <li><a href="/home/login"> Create </a></li>
+                <li><a href="/home/signup">Sign up</a></li>
+                <li><a href="/home/login"> Login </a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
