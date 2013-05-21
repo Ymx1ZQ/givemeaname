@@ -12,6 +12,10 @@ class Home extends CI_Controller {
 	}
 	public function login()
 	{
-  echo "hello world";
+		$this->load->view('login');
+	}
+	public function about()
+	{
+		$this->load->view('about');
 	}
 }
