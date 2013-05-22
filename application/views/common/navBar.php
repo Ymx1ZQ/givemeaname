@@ -34,9 +34,12 @@
                   </ul>
                 </li>
                 -->
+                <? 
+					if ($logged == false) {
+						?>
                 <li><a href="/home/signup">Sign up</a></li>
-                
-                <form style="float:right" method="post" action="/auth/login" data-ajax="false">
+                 
+                <form style="float:right; margin-top: 8px;" method="post" action="/auth/login" data-ajax="false">
 					<input name="redirect_back" type="hidden" value="<?=$redirect_back?>">
 					<input name="redirect_forward" type="hidden" value="<?=$redirect_forward?>">
 					<input name="email" type="email" placeholder="Email" required="required" value="<?=$suggested_fields['email']?>">
@@ -44,6 +47,15 @@
 					<input name="remember" type="checkbox" checked="checked" value="true">
 					<input class="btn btn-small btn-primary" type="submit" value="Login">
 				</form>
+				
+						<?
+					}
+					else {
+						?>
+				<h4> Hello <?=$name_to_show?></h4>						
+						<?
+					}
+				?>
 				
               </ul>
             </div><!--/.nav-collapse -->

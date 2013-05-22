@@ -15,8 +15,7 @@ class Home extends CI_Controller {
         if ($this->ion_auth->logged_in()) {
         	redirect('/deck');
         }
-        
-        $this->data = array();		
+        $this->data['logged'] = false;
 	}
 	
 	public function index() {			

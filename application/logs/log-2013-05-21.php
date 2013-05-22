@@ -21626,3 +21626,2453 @@ DEBUG - 2013-05-21 20:57:15 --> Form Validation Class Initialized
 DEBUG - 2013-05-21 20:57:15 --> Model Class Initialized
 DEBUG - 2013-05-21 20:57:15 --> Final output sent to browser
 DEBUG - 2013-05-21 20:57:15 --> Total execution time: 0.0810
+DEBUG - 2013-05-21 20:58:24 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:24 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Output Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Security Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Input Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:24 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:24 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:24 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 20:58:24 --> Language Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Loader Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Controller Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 20:58:24 --> Session Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 20:58:24 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Session routines successfully run
+DEBUG - 2013-05-21 20:58:24 --> Email Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 20:58:24 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:24 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 20:58:24 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 20:58:24 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 20:58:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:24 --> User Agent Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 20:58:24 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:24 --> Final output sent to browser
+DEBUG - 2013-05-21 20:58:24 --> Total execution time: 0.0412
+DEBUG - 2013-05-21 20:58:26 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:26 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Output Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Security Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Input Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:26 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:26 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:26 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 20:58:26 --> Language Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Loader Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Controller Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 20:58:26 --> Email Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Session Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 20:58:26 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Session routines successfully run
+DEBUG - 2013-05-21 20:58:26 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 20:58:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 20:58:26 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> User Agent Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 20:58:26 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:26 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Output Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Security Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Input Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> XSS Filtering completed
+DEBUG - 2013-05-21 20:58:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 20:58:26 --> Language Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Loader Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Controller Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 20:58:26 --> Session Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 20:58:26 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> A session cookie was not found.
+DEBUG - 2013-05-21 20:58:26 --> Session routines successfully run
+DEBUG - 2013-05-21 20:58:26 --> Email Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 20:58:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 20:58:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 20:58:26 --> User Agent Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 20:58:26 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Model Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 20:58:26 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 20:58:26 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 20:58:26 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 20:58:26 --> Final output sent to browser
+DEBUG - 2013-05-21 20:58:26 --> Total execution time: 0.0949
+DEBUG - 2013-05-21 20:58:26 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:26 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 20:58:27 --> Config Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 20:58:27 --> URI Class Initialized
+DEBUG - 2013-05-21 20:58:27 --> Router Class Initialized
+ERROR - 2013-05-21 20:58:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Output Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Security Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Input Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:13:23 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:13:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:13:23 --> Language Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:13:23 --> Session Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:13:23 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Session routines successfully run
+DEBUG - 2013-05-21 21:13:23 --> Email Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:13:23 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:13:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:13:23 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:13:23 --> Model Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Model Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:13:23 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:13:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:13:23 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:13:23 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Model Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:13:23 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:13:23 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:13:23 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:13:23 --> Final output sent to browser
+DEBUG - 2013-05-21 21:13:23 --> Total execution time: 0.0706
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:23 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:23 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:23 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:23 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:13:24 --> Config Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:13:24 --> URI Class Initialized
+DEBUG - 2013-05-21 21:13:24 --> Router Class Initialized
+ERROR - 2013-05-21 21:13:24 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Output Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Security Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Input Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:03 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:14:03 --> Language Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:14:03 --> Session Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:14:03 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Session routines successfully run
+DEBUG - 2013-05-21 21:14:03 --> Email Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:14:03 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:03 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:14:03 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:14:03 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:14:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:03 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:14:03 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:14:03 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:14:03 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:14:03 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:14:03 --> Final output sent to browser
+DEBUG - 2013-05-21 21:14:03 --> Total execution time: 0.0359
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:03 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:03 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:10 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:10 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Output Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Security Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Input Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:10 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:14:10 --> Language Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:14:10 --> Session Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:14:10 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Session routines successfully run
+DEBUG - 2013-05-21 21:14:10 --> Email Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:14:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:10 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:14:10 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:14:10 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:14:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:10 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:14:10 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:10 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:14:10 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:14:10 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:14:10 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:14:10 --> Final output sent to browser
+DEBUG - 2013-05-21 21:14:10 --> Total execution time: 0.0423
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:11 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:11 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:11 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:11 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Output Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Security Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Input Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:12 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:14:12 --> Language Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:14:12 --> Session Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:14:12 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Session routines successfully run
+DEBUG - 2013-05-21 21:14:12 --> Email Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:14:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:12 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:14:12 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:14:12 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:14:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:12 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:14:12 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:14:12 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:14:12 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:14:12 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:14:12 --> Final output sent to browser
+DEBUG - 2013-05-21 21:14:12 --> Total execution time: 0.0292
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:12 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:12 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:12 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:12 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Output Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Security Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Input Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:27 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:14:27 --> Language Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:14:27 --> Session Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:14:27 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Session routines successfully run
+DEBUG - 2013-05-21 21:14:27 --> Email Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:14:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:27 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:14:27 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:14:27 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:14:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:27 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:14:27 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:14:27 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:14:27 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:14:27 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:14:27 --> Final output sent to browser
+DEBUG - 2013-05-21 21:14:27 --> Total execution time: 0.0299
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:27 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:27 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:27 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:27 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:51 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:51 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Output Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Security Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Input Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:51 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:14:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:14:51 --> Language Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:14:51 --> Session Class Initialized
+DEBUG - 2013-05-21 21:14:51 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:14:51 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Session routines successfully run
+DEBUG - 2013-05-21 21:14:52 --> Email Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:14:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:52 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:14:52 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:14:52 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:14:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:14:52 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:14:52 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Model Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:14:52 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:14:52 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:14:52 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:14:52 --> Final output sent to browser
+DEBUG - 2013-05-21 21:14:52 --> Total execution time: 0.0433
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:14:52 --> Config Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:14:52 --> URI Class Initialized
+DEBUG - 2013-05-21 21:14:52 --> Router Class Initialized
+ERROR - 2013-05-21 21:14:52 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:03 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:03 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Output Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Security Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Input Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:15:03 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:15:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:15:03 --> Language Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:15:03 --> Session Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:15:03 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Session routines successfully run
+DEBUG - 2013-05-21 21:15:03 --> Email Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:15:03 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:03 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:15:03 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:03 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:15:03 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:15:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:03 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:15:04 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:15:04 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:15:04 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:15:04 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:15:04 --> Final output sent to browser
+DEBUG - 2013-05-21 21:15:04 --> Total execution time: 0.0549
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:04 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:04 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:04 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:04 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Output Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Security Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Input Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:15:18 --> XSS Filtering completed
+DEBUG - 2013-05-21 21:15:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-05-21 21:15:18 --> Language Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Loader Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Controller Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Helper loaded: url_helper
+DEBUG - 2013-05-21 21:15:18 --> Session Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Helper loaded: string_helper
+DEBUG - 2013-05-21 21:15:18 --> Database Driver Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Session routines successfully run
+DEBUG - 2013-05-21 21:15:18 --> Email Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-05-21 21:15:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:18 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-05-21 21:15:18 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Helper loaded: cookie_helper
+DEBUG - 2013-05-21 21:15:18 --> Helper loaded: date_helper
+DEBUG - 2013-05-21 21:15:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-05-21 21:15:18 --> User Agent Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Helper loaded: form_helper
+DEBUG - 2013-05-21 21:15:18 --> Form Validation Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Model Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> File loaded: application/views/common/header.php
+DEBUG - 2013-05-21 21:15:18 --> File loaded: application/views/common/navBar.php
+DEBUG - 2013-05-21 21:15:18 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-05-21 21:15:18 --> File loaded: application/views/home.php
+DEBUG - 2013-05-21 21:15:18 --> Final output sent to browser
+DEBUG - 2013-05-21 21:15:18 --> Total execution time: 0.0318
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets
+DEBUG - 2013-05-21 21:15:18 --> Config Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Hooks Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Utf8 Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> UTF-8 Support Enabled
+DEBUG - 2013-05-21 21:15:18 --> URI Class Initialized
+DEBUG - 2013-05-21 21:15:18 --> Router Class Initialized
+ERROR - 2013-05-21 21:15:18 --> 404 Page Not Found --> assets

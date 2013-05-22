@@ -5,7 +5,7 @@
   <body>
 
 
-<? $this->view("common/navBar.php"); ?>
+<? $this->view("common/navBar.php", array('logged' => $logged)); ?>
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide">

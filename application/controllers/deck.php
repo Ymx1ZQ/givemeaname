@@ -14,10 +14,12 @@ class Deck extends CI_Controller {
         $this->load->model('ion_auth_model');
 
         if (!$this->ion_auth->logged_in()) {
-        	redirect('/home');        	
+        	redirect('/home');        	        
         } 
+        $this->data['logged'] = true;
         $this->User_Model->__initialise($this->ion_auth->get_user()->id);
         $this->data['user_data'] = $this->User_Model->getUserData();
+        
 	}
 	
 	public function index() {					
