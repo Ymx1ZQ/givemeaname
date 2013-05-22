@@ -18,7 +18,13 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	define('ENVIRONMENT', 'development');
+	if (getenv("CLEARDB_DATABASE_URL") !== false) {
+		// if you are running on heroku
+		define('ENVIRONMENT', 'production');
+	} else {	
+		define('ENVIRONMENT', 'development');
+	}
+
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
@@ -34,6 +40,7 @@ if (defined('ENVIRONMENT'))
 	{
 		case 'development':
 			error_reporting(E_ALL);
+			ini_set('display_errors', 1);
 		break;
 	
 		case 'testing':

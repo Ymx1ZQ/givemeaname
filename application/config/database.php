@@ -54,9 +54,9 @@ $url=parse_url(getenv("CLEARDB_DATABASE_URL"));
 if (empty($url['host'])) {
 	// development environment
 	$db['default']['hostname'] = 'localhost';
-	$db['default']['username'] = 'webuser';
-	$db['default']['password'] = '21vubiconeversleeps12';
-	$db['default']['database'] = 'vubico';
+	$db['default']['username'] = 'gman_user';
+	$db['default']['password'] = '55doyouhaveanametogiveme55';
+	$db['default']['database'] = 'givemeaname';
 } else {
 	// production environment
 	$db['default']['hostname'] = $url["host"];

@@ -1,19 +1,15 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<?php
-$this->view("header.php");
-?>
+<? $this->view("common/header.php"); ?>
   <body>
 
 
-<?php
-$this->view("navBar.php");
-?>
-   
+<? $this->view("common/navBar.php"); ?>
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide">
+	  <? if (!empty($message)) $this->load->view('common/message', $message); // info messages ?>
       <div class="carousel-inner">
         <div class="item active">
           <img src="/graphics/img/af1.jpg" alt="example pic">
@@ -124,7 +120,4 @@ help, we will be able to save a lot of lives.
 
       <!-- /END THE FEATURETTES -->
 
-
-<?php
-$this->view("footer.php");
-?>
+<? $this->view("common/footer.php"); ?>
