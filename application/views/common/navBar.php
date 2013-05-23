@@ -18,8 +18,8 @@
             <div class="nav-collapse collapse">
               <ul class="nav">
                 <li class="active"><a href="/home/index">Home</a></li>
-                <li><a href="/home/about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="/info/about">About</a></li>
+                <li><a href="/info/contacts">Contacts</a></li>
                 <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
                 <!--<li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
