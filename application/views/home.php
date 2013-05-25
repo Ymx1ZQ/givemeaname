@@ -15,9 +15,9 @@
           <img src="/graphics/img/af1.jpg" alt="example pic">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Help Us!Help them!</h1>
-              <p class="lead">Making long distance adoption even more convenient and special.</p>
-              <a class="btn btn-large btn-primary" href="#">Sign up today</a>
+              <h1>Give a name to a child!</h1>
+              <p class="lead">Donate an education. Donate a new life.</p>
+              <a class="btn btn-large btn-primary" href="/home/signup">Sign up today</a>
             </div>
           </div>
         </div>

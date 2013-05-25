@@ -112,7 +112,7 @@ class Auth extends Controller {
 		if ($this->ion_auth->login($email, $password, $remember)) {
             redirect($redirect_forward);
 		} else {
-			$this->session->set_flashdata('message', array('text'=> 'Your email and password did not match. Please try again.', 'type' => 'negative'));
+			$this->session->set_flashdata('message', array('text'=> 'Your email and password did not match. Please try again. If you forgot your password, click <A HREF="/auth/forgot_password">here</A>.', 'type' => 'negative'));
 			redirect($redirect_back);
 		}
 	}
@@ -151,17 +151,9 @@ class Auth extends Controller {
 		$identity_human = ucwords(str_replace('_', ' ', $identity)); //if someone uses underscores to connect words in the column names
 		$this->form_validation->set_rules($identity, $identity_human, 'required');
 		if ($this->form_validation->run() == false) {
-			//setup the input
-			$this->data[$identity] = array('name' => $identity,
-				'id' => $identity, //changed
-			);
 			//set any errors and display the form
 			$this->data['message'] = (validation_errors()) ? validation_errors() : $this->session->flashdata('message');
-			$this->data['identity'] = $identity; $this->data['identity_human'] = $identity_human;
-			$this->load->view('mobile/common/begin');
-			$this->load->view('mobile/forgot_password', $this->data);
-			$this->load->view('mobile/common/end');
-
+			$this->load->view('forgot_password', $this->data);
 		}
 		else {
 			//run the forgotten password method to email an activation code to the user
@@ -169,13 +161,13 @@ class Auth extends Controller {
 
 			if ($forgotten)
 			{ //if there were no errors
-				$this->session->set_flashdata('message', array('text'=> 'We sent to your email address a mail so that you can reset your password. (If you do not find it, check in the spam folder of your email account.)', 'type' => 'neutral'));
-				redirect('home');
+				$this->session->set_flashdata('message', array('text'=> 'We sent to your email address an email so that you can reset your password. (If you do not find it, check in the spam folder of your email account.)', 'type' => 'neutral'));
+				redirect('/home');
 			}
 			else
 			{
 				$this->session->set_flashdata('message', array('text'=> 'The email address you typed does not belong to any registered user.', 'type' => 'negative'));
-				redirect('auth/forgot_password');
+				redirect('/auth/forgot_password');
 			}
 		}
 	}

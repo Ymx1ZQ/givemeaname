@@ -5,7 +5,7 @@
 	  	
     <div class="container">
 		<? if (!empty($message)) $this->load->view('common/message', $message); // info messages ?>
-		<form class="form-signin" method="post" action="/auth/finalizeSignup" data-ajax="false">
+		<form class="form-signin" method="post" action="/auth/finalizeSignup">
 			<h3 class="form-signin-heading">Please fill the form to sign up on givemeaname.org</h3>
 			<input name="redirect_back" type="hidden" value="<?=$redirect_back?>">
 			<input name="redirect_forward" type="hidden" value="<?=$redirect_forward?>">
