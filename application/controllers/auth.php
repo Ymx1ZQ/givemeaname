@@ -140,7 +140,7 @@ class Auth extends Controller {
 
 		$this->User_Model->delete_account();
 		$logout = $this->ion_auth->logout();
-		$this->session->set_flashdata('message', array('text'=> 'We are so sorry you left vubi.co... we hope you will come back sooner or later!', 'type' => 'neutral'));
+		$this->session->set_flashdata('message', array('text'=> 'We are so sorry you left GiveMeAName... we hope you will come back sooner or later!', 'type' => 'neutral'));
 		redirect('/home');
 	}
 
@@ -281,9 +281,9 @@ class Auth extends Controller {
 					),
 					true
 				);
-				$this->email->from('team@vubi.co', 'vubi.co Team');
+				$this->email->from('team@givemeaname.org', 'GiveMeAName Team');
 				$this->email->to($this->input->post('email_register'));
-				$this->email->subject('Login information changed on vubi.co!');
+				$this->email->subject('Login information changed on givemeaname.org!');
 				$this->email->set_mailtype("html");
 				$this->email->message($content);
 				$this->email->send();

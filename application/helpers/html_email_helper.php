@@ -35,13 +35,13 @@
 	function email_footer() {
 		echo '
 				<div style="margin: 0; padding: 0; border: 0; outline: 0; padding: 1em;">
-					<p style="margin: 0; padding: 0; border: 0; outline: 0" >Cheers,<BR/>vubi.co Team</p>				
+					<p style="margin: 0; padding: 0; border: 0; outline: 0" >Cheers,<BR/>GiveMeAName Team</p>				
 					<BR/>
 					<BR/>
 					<hr/>
 					<h5 style="margin: 0; padding: 0; border: 0; outline: 0" >
 						<span style="color: silver; font-style:italic">
-							You received this email because you are registered on givemeaname.org or because you were invited by some user registered on our platform.
+							You received this email because you are registered on givemeaname.org
 							You will find more information about our privacy policy at <a href="http://givemeaname.org/info/privacypolicy">http://givemeaname.org/info/privacypolicy</a> or feel free to send an email to <a href="mailto:info@givemeaname.org">info@givemeaname.org</a>.
 						</span>
 					</h5>

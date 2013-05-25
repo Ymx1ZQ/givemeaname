@@ -1,6 +1,6 @@
 <?php
 function s3_make_url($relative_filename) {
-	return 'http://files.vubi.co/'.$relative_filename;
+	return 'http://files.givemeaname.org/'.$relative_filename;
 }
 
 function s3_exists($relative_filename) {
