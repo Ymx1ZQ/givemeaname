@@ -22,10 +22,9 @@ class Deck extends CI_Controller {
         
 	}
 	
-	public function index() {					
-		echo 'Hello '. $this->data['user_data']['name_to_show'] . '! You are logged in givemeaname.org!';
-		echo '<BR/> Click <A HREF="/auth/logout">here</A> if you want to logout :)';
-		//$this->load->view('deck', $this->data);		
+	public function index() {		
+		$this->data['message'] = $this->session->flashdata('message');
+		$this->load->view('deck', $this->data);		
 	}	
 	
 	public function welcome() {					

@@ -19,9 +19,11 @@ class Auth extends Controller {
         $this->load->model('User_Model');
 		$this->load->database();
 		$this->load->helper('url');
+		$this->data['user_data'] = array();
 
 		if ($this->ion_auth->logged_in()) {
 			$this->User_Model->__initialise($this->ion_auth->get_user()->id);
+			$this->data['user_data'] = $this->User_Model->getUserData();
 		}
 	}
 
@@ -195,13 +197,13 @@ class Auth extends Controller {
 		if (!$this->ion_auth->logged_in()) {
 			redirect('home');
 		}
-
-		$this->data['email'] = $this->User_Model->getMail();
+		$this->data['suggested_fields'] = array(
+			'first_name' => $this->data['user_data']['first_name'],
+			'last_name' => $this->data['user_data']['last_name'],
+			'email' => $this->data['user_data']['email']
+		);
 		$this->data['message'] = $this->session->flashdata('message');
-		$this->data['timezone'] = $this->User_Model->getTimezone();
-		$this->load->view('mobile/common/begin');
-		$this->load->view('mobile/account_settings', $this->data);
-		$this->load->view('mobile/common/end');
+		$this->load->view('account_settings', $this->data);
 	}
 
 	function account_settings_update()
@@ -218,10 +220,7 @@ class Auth extends Controller {
 		if ($this->form_validation->run() == false) {
 			$this->data['email'] = $this->User_Model->getMail();
 			$this->data['message'] = $this->session->flashdata('message');
-			$this->data['timezone'] = $this->User_Model->getTimezone();
-			$this->load->view('mobile/common/begin');
-			$this->load->view('mobile/account_settings', $this->data);
-			$this->load->view('mobile/common/end');
+			$this->load->view('account_settings', $this->data);
 			return;
 		}
 
