@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$this->view("header.php");
+$this->view("common/header.php");
 ?>
   <body>
 
 
 <?php
-$this->view("navBar.php");
+$this->view("common/navBar.php");
 ?>
 </br></br></br></br></br></br></br></br>
   <div class="container">
@@ -80,5 +80,5 @@ including in our web pictures, blog posts and videos of every adopted child.</p>
 
 
 <?php
-$this->view("footer.php");
+$this->view("common/footer.php");
 ?>

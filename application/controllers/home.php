@@ -32,17 +32,5 @@ class Home extends CI_Controller {
 		$this->data['message'] = $this->session->flashdata('message');
 		$this->data['suggested_fields'] = $this->session->flashdata('suggested_fields');
 		$this->load->view('signup', $this->data);
-	}
-
-	
-	public function login()
-	{
-		
-	}
-	
-	public function about()
-	{
-		$this->load->view('about');
-	}
-	
+	}	
 }

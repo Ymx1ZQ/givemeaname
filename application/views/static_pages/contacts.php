@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$this->view("header.php");
+$this->view("common/header.php");
 ?>
   <body>
 
 
 <?php
-$this->view("navBar.php");
+$this->view("common/navBar.php");
 ?>
 </br></br></br></br></br></br></br></br>
   <div class="container">
@@ -44,5 +44,5 @@ For Technical web support Alp +1-510-xxx-xxxx Tech@givemeaname.org Mon – Fri, 
 
 
 <?php
-$this->view("footer.php");
+$this->view("common/footer.php");
 ?>
