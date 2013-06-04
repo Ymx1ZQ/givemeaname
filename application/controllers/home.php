@@ -22,7 +22,8 @@ class Home extends CI_Controller {
 		$this->data['redirect_back'] = $this->input->post('redirect_back');
 		$this->data['redirect_forward'] = $this->input->post('redirect_forward');
 		$this->data['message'] = $this->session->flashdata('message');
-		$this->data['suggested_fields'] = $this->session->flashdata('suggested_fields');	
+		$this->data['suggested_fields'] = $this->session->flashdata('suggested_fields');
+		$this->data['funded_names'] = $this->Name_Model->getAllNames(1); // get all names funded
 		$this->load->view('home', $this->data);		
 	}
 	

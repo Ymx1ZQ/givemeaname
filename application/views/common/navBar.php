@@ -13,11 +13,11 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#">Give me a name</a>
+            <a class="brand" href="/">Give me a name</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
-              <ul class="nav">
-                <li class="active"><a href="/home/index">Home</a></li>
+              <ul class="nav">                
+                <li class="active"><a href="<?if ($logged == false) echo '/home'; else echo '/deck';?>">Home</a></li>
                 <li><a href="/info/about">About</a></li>
                 <li><a href="/info/contacts">Contacts</a></li>
                 <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
