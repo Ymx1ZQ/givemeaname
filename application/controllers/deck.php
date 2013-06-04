@@ -40,17 +40,19 @@ class Deck extends CI_Controller {
 	}	
 	
 	public function finalizePropose() {					
-		if ($this->Name_Model->existsName(trim($this->input->post('name')))) {
+		if ($this->Name_Model->existsNonfundedName(trim($this->input->post('name')))) {
 			$this->session->set_flashdata('message', array('text'=> 'This name has already been proposed!', 'type' => 'negative'));
 			redirect('/deck/propose');
 		} 
 		$options_name = array(
-			"name" => trim($this->input->post('name'));
+			"name" => trim($this->input->post('name')),
 			"gender" => trim($this->input->post('gender'))
 			);
+		$this->Name_Model->createName($options_name);
+		
 			
 		$options_donation = array(
-			"name" => trim($this->input->post('name'));
+			"name" => trim($this->input->post('name')),
 			"gender" => trim($this->input->post('gender'))
 			);
 		

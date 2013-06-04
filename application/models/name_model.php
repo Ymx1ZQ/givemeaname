@@ -34,6 +34,11 @@ class Name_Model extends CI_Model {
         return isset($name) ? true : false;
     }
 
+    function existsNonfundedName($name_name = array()) {        
+        $name = $this->getNames(array('name'=>$name_name,'funded'=>0));
+        return isset($name) ? true : false;
+    }
+
     function getAllNames($funded = null) {
 		$filter = '';
 		if ($funded === 0) $filter = ' WHERE funded = 0';

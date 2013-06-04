@@ -13,9 +13,11 @@
 		<h4>List of names available:</h4>
 		<?
 			if (!empty($names)) {
+				echo '<ul>';
 				foreach ($names as $name) {
-					echo '<a href="/deck/view_name/'.$name['id'].'">'.$name['name'].'</a>';
+					echo '<li><a href="/deck/view_name/'.$name['id'].'">'.$name['name'].'</a></li>';
 				}
+				echo '</ul>';
 			}
 			else echo '<p>No name has been proposed yet</p>';
 		?>

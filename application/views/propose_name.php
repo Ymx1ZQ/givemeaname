@@ -18,9 +18,9 @@
 			<br/>
 			<br/>
 			    <div class="input-prepend input-append">
-					<label>$5.00 + initial donation: 
+					<label>$5.00 fee + initial donation: 
 					<span class="add-on">$</span>
-					<input class="span2" id="donation" name="donation" type="number" placeholder="initial donation">
+					<input class="span2" id="donation" name="donation" type="number" placeholder="first donation">
 					<span class="add-on">.00</span> = 
 					$<span id="total">5</span>.00
 					</label>
@@ -40,7 +40,8 @@
 <script type="text/javascript">
 	$("#donation").on('keyup',function(){
 		numeric_value = parseInt(this.value);
-		if (isNaN(numeric_value)) numeric_value = 0;
+		if (isNaN(numeric_value)) numeric_value = 1;
+		if (numeric_value < 1) numeric_value = 1;
 		this.value = numeric_value;
 		$("#total").html(numeric_value+5);
 	});  
