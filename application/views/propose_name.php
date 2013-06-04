@@ -8,7 +8,7 @@
 		
 		<h3>Propose a name</h3>					
 		
-		<form class="form-signin" method="post" action="/auth/finalizeProposeName">			
+		<form class="form-signin" method="post" action="/deck/finalizePropose">			
 			
 			<input name="name" type="text" class="input-block-level" placeholder="Name proposed" required="required">
 			
@@ -28,6 +28,7 @@
 
 			<textarea name="comment" type="text" class="input-block-level" placeholder="Why would you like to propose this name?" required="required"></textarea>
 			<input class="btn btn-large btn-primary" type="submit" value="Propose">
+			<a class="btn" href="/deck" >cancel</a>
 		</form>
 		
 

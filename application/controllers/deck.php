@@ -36,7 +36,26 @@ class Deck extends CI_Controller {
 
 	public function propose() {					
 		$this->data['message'] = $this->session->flashdata('message');
-		$this->load->view('propose_name', $this->data);		
+		$this->load->view('propose_name', $this->data);				
+	}	
+	
+	public function finalizePropose() {					
+		if ($this->Name_Model->existsName(trim($this->input->post('name')))) {
+			$this->session->set_flashdata('message', array('text'=> 'This name has already been proposed!', 'type' => 'negative'));
+			redirect('/deck/propose');
+		} 
+		$options_name = array(
+			"name" => trim($this->input->post('name'));
+			"gender" => trim($this->input->post('gender'))
+			);
+			
+		$options_donation = array(
+			"name" => trim($this->input->post('name'));
+			"gender" => trim($this->input->post('gender'))
+			);
+		
+		redirect('/deck');
+		
 	}	
 
 	
