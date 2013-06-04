@@ -31457,3 +31457,3253 @@ DEBUG - 2013-06-04 14:10:19 --> Model Class Initialized
 DEBUG - 2013-06-04 14:10:19 --> Model Class Initialized
 DEBUG - 2013-06-04 14:10:19 --> Model Class Initialized
 ERROR - 2013-06-04 14:10:19 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> File loaded: application/views/common/header.php
+ERROR - 2013-06-04 14:19:37 --> Severity: Notice  --> Undefined index: proposer /var/www/givemeaname/application/views/view_name.php 20
+DEBUG - 2013-06-04 14:19:37 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-06-04 14:19:37 --> File loaded: application/views/view_name.php
+DEBUG - 2013-06-04 14:19:37 --> Final output sent to browser
+DEBUG - 2013-06-04 14:19:37 --> Total execution time: 0.0770
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Database Driver Class Initialized
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:37 --> Session routines successfully run
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Output Class Initialized
+ERROR - 2013-06-04 14:19:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:19:38 --> Config Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:19:38 --> URI Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Router Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Output Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Security Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Input Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:19:38 --> Language Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:19:38 --> Session Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Session routines successfully run
+DEBUG - 2013-06-04 14:19:38 --> Email Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:19:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:19:38 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:19:38 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+DEBUG - 2013-06-04 14:19:38 --> Model Class Initialized
+ERROR - 2013-06-04 14:19:38 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> File loaded: application/views/common/header.php
+DEBUG - 2013-06-04 14:21:21 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-06-04 14:21:21 --> File loaded: application/views/view_name.php
+DEBUG - 2013-06-04 14:21:21 --> Final output sent to browser
+DEBUG - 2013-06-04 14:21:21 --> Total execution time: 0.0389
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:21 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:21 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:21 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:21 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:21 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:21 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:21 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:21 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:21 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:21 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> File loaded: application/views/common/header.php
+DEBUG - 2013-06-04 14:21:36 --> File loaded: application/views/common/footer.php
+DEBUG - 2013-06-04 14:21:36 --> File loaded: application/views/view_name.php
+DEBUG - 2013-06-04 14:21:36 --> Final output sent to browser
+DEBUG - 2013-06-04 14:21:36 --> Total execution time: 0.0399
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+ERROR - 2013-06-04 14:21:36 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:36 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:36 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:36 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:36 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:36 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:36 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:36 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets
+DEBUG - 2013-06-04 14:21:37 --> Config Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Hooks Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-04 14:21:37 --> URI Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Router Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Output Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Security Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Input Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> XSS Filtering completed
+DEBUG - 2013-06-04 14:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-04 14:21:37 --> Language Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Loader Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Controller Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-04 14:21:37 --> Session Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-04 14:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Session routines successfully run
+DEBUG - 2013-06-04 14:21:37 --> Email Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2013-06-04 14:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: cookie_helper
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: date_helper
+DEBUG - 2013-06-04 14:21:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2013-06-04 14:21:37 --> User Agent Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-04 14:21:37 --> Form Validation Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+DEBUG - 2013-06-04 14:21:37 --> Model Class Initialized
+ERROR - 2013-06-04 14:21:37 --> 404 Page Not Found --> deck/assets

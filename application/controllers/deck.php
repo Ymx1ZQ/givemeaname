@@ -56,7 +56,8 @@ class Deck extends CI_Controller {
 			"name_id" => $name['id'],
 			"user_id" => $this->data['user_data']['id'],
 			"amount" => trim($this->input->post('amount')),
-			"comment" => trim($this->input->post('comment'))
+			"comment" => trim($this->input->post('comment')),
+			"proposer" => 1
 			);
 		$this->Donation_Model->createDonation($options_donation);
 		redirect('/deck/view_name/'.$name['id']);

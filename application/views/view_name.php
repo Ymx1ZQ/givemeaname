@@ -17,7 +17,10 @@
 			if (!empty($donations)) {
 				echo '<ul>';
 				foreach ($donations as $donation) {
-					echo '<li>'.$donation['first_name'].' '.$donation['last_name'].' ($'.$donation['amount'].'.00): <br/>"<i>'. $donation['comment'].'</i>"</li>';
+					if ($donation['proposer'] != 1) echo '<li>'.$donation['first_name'].' '.$donation['last_name'].' ($'.$donation['amount'].'.00): <br/>"<i>'. $donation['comment'].'</i>"</li>';
+					else {
+						echo '<li>'.$donation['first_name'].' '.$donation['last_name'].' proposed the name (fee $5.00 + $'.$donation['amount'].'.00): <br/>"<i>'. $donation['comment'].'</i>"</li>';
+					}
 				}
 				echo '</ul>';
 			}
