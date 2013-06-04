@@ -63,6 +63,36 @@ class Deck extends CI_Controller {
 		redirect('/deck/view_name/'.$name['id']);
 	}	
 
+	public function donate($name_id) {					
+		if (!$this->Name_Model->existsName($name_id)) {
+			$this->session->set_flashdata('message', array('text'=> 'You are trying to donate for a name which does not exist!', 'type' => 'negative'));			
+			redirect('/deck');
+		} 				
+		$this->data['message'] = $this->session->flashdata('message');
+		$this->data['name'] = $this->Name_Model->getNameById($name_id);;
+		$this->load->view('donate', $this->data);				
+	}	
+	
+	public function finalizeDonate($name_id) {	
+		if (!$this->Name_Model->existsName($name_id)) {
+			$this->session->set_flashdata('message', array('text'=> 'You are trying to donate for a name which does not exist!', 'type' => 'negative'));
+			redirect('/deck');
+		} 
+		if (trim($this->input->post('amount'))<1) {
+			$this->session->set_flashdata('message', array('text'=> 'The minimum amount for a donation is $1!', 'type' => 'negative'));
+			redirect('/deck/donate/'.$name_id);
+		} 		
+		$options_donation = array(
+			"name_id" => $name_id,
+			"user_id" => $this->data['user_data']['id'],
+			"amount" => trim($this->input->post('amount')),
+			"comment" => trim($this->input->post('comment'))
+			);
+		$this->Donation_Model->createDonation($options_donation);
+		redirect('/deck/view_name/'.$name['id']);
+	}	
+
+
 	public function view_name($name_id) {	
 		$this->data['name'] = $this->Name_Model->getNameById($name_id);		
 		$this->data['donations'] = $this->Donation_Model->getHydratedDonationsByNameId($name_id);

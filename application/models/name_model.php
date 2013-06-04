@@ -38,6 +38,11 @@ class Name_Model extends CI_Model {
         $name = $this->getNonfundedName($name_name);
         return (!empty($name));
     }
+    
+    function existsName($name_id) {
+        $name = $this->getNameById($name_id);
+        return (!empty($name));
+    }
 
     function getAllNames($funded = null) {
 		$filter = '';

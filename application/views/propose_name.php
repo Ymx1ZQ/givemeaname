@@ -42,7 +42,7 @@
 		if (this.value != '') {
 			numeric_value = parseInt(this.value);
 			if (isNaN(numeric_value)) numeric_value = 0;
-			if (numeric_value < 1) numeric_value = 0;
+			if (numeric_value < 0) numeric_value = 0;
 			this.value = numeric_value;
 			$("#total").html(numeric_value+5);
 		}
