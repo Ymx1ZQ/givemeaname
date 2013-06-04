@@ -16,27 +16,27 @@ class Name_Model extends CI_Model {
     }
     
     private function getNames($options = array()) {  
-        $result = $this->db->get_where('names', $options)->result_array();
+        $names = $this->db->get_where('names', $options)->result_array();
+        return isset($names) ? $names : array();
     }
         
     function getNameById($name_id = array()) {        
-        $names = $this->getNames(array('id'=>$name_id));
+        $names = $this->getNames(array('id'=>$name_id));        
         return isset($names[0]) ? $names[0] : array();
     }
-    
-    function getNameByName($name_name = array()) {        
-        $names = $this->getNames(array('name'=>$name_name));
-        return isset($names[0]) ? $names[0] : array();
+            
+    function getNonfundedName($name_name) {		
+		$options = array(
+			'name' => $name_name,
+			'funded' => 0
+		);
+        $name = $this->getNames($options);
+        return isset ($name[0]) ? $name[0] : array();
     }
     
-    function existsName($name_name = array()) {        
-        $name = $this->getNameByName($name_name);
-        return isset($name) ? true : false;
-    }
-
-    function existsNonfundedName($name_name = array()) {        
-        $name = $this->getNames(array('name'=>$name_name,'funded'=>0));
-        return isset($name) ? true : false;
+    function existsNonfundedName($name_name) {
+        $name = $this->getNonfundedName($name_name);
+        return (!empty($name));
     }
 
     function getAllNames($funded = null) {

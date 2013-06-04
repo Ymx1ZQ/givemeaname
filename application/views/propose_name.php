@@ -39,10 +39,12 @@
 
 <script type="text/javascript">
 	$("#donation").on('keyup',function(){
-		numeric_value = parseInt(this.value);
-		if (isNaN(numeric_value)) numeric_value = 1;
-		if (numeric_value < 1) numeric_value = 1;
-		this.value = numeric_value;
-		$("#total").html(numeric_value+5);
+		if (this.value != '') {
+			numeric_value = parseInt(this.value);
+			if (isNaN(numeric_value)) numeric_value = 0;
+			if (numeric_value < 1) numeric_value = 0;
+			this.value = numeric_value;
+			$("#total").html(numeric_value+5);
+		}
 	});  
 </script>

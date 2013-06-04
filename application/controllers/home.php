@@ -12,6 +12,7 @@ class Home extends CI_Controller {
         $this->load->library('form_validation');
         $this->load->model('User_Model');
         $this->load->model('Name_Model');
+        $this->load->model('Donation_Model');
 
         if ($this->ion_auth->logged_in()) {
         	redirect('/deck');
