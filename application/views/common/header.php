@@ -7,6 +7,8 @@
     <meta name="author" content="givemeaname_team">
     <link rel="stylesheet" href="/graphics/css/bootstrap.css">
     <link rel="stylesheet" href="/graphics/css/bootstrap-responsive.css">
+    <script src="http://code.jquery.com/jquery.js"></script>
+	<script src="/graphics/js/bootstrap.min.js"></script>
     <style>
 
     /* GLOBAL STYLES
@@ -258,7 +260,7 @@
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="../assets/ico/favicon.png">
   </head>

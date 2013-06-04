@@ -25,7 +25,7 @@ class Deck extends CI_Controller {
 	
 	public function index() {		
 		$this->data['message'] = $this->session->flashdata('message');
-		$this->data['names'] = $this->Name_Model->getAllNames(); // get all names
+		$this->data['names'] = $this->Name_Model->getAllNames(0); // get all names not funded
 		$this->load->view('deck', $this->data);		
 	}	
 	
@@ -33,5 +33,11 @@ class Deck extends CI_Controller {
 		echo 'Welcome '. $this->data['user_data']['name_to_show'].'!';
 		echo '<BR/> click <A HREF="/deck">here</A> to go on!';
 	}	
+
+	public function propose() {					
+		$this->data['message'] = $this->session->flashdata('message');
+		$this->load->view('propose_name', $this->data);		
+	}	
+
 	
 }
