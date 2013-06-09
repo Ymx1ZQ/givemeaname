@@ -95,7 +95,7 @@ class Deck extends CI_Controller {
 
 	public function view_name($name_id = null) {	
 		if ($name_id = null || !$this->Name_Model->existsName($name_id)) {
-			$this->session->set_flashdata('message', array('text'=> 'You are view a name which does not exist, yet! Just propose it!!', 'type' => 'neutral'));
+			$this->session->set_flashdata('message', array('text'=> 'You want to view a name which does not exist! Just propose it!!', 'type' => 'neutral'));
 			redirect('/deck');
 		} 
 		$this->data['name'] = $this->Name_Model->getNameById($name_id);		
