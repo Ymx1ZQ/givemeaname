@@ -89,11 +89,15 @@ class Deck extends CI_Controller {
 			"comment" => trim($this->input->post('comment'))
 			);
 		$this->Donation_Model->createDonation($options_donation);
-		redirect('/deck/view_name/'.$name['id']);
+		redirect('/deck/view_name/'.$name_id);
 	}	
 
 
-	public function view_name($name_id) {	
+	public function view_name($name_id = null) {	
+		if ($name_id = null || !$this->Name_Model->existsName($name_id)) {
+			$this->session->set_flashdata('message', array('text'=> 'You are view a name which does not exist, yet! Just propose it!!', 'type' => 'neutral'));
+			redirect('/deck');
+		} 
 		$this->data['name'] = $this->Name_Model->getNameById($name_id);		
 		$this->data['donations'] = $this->Donation_Model->getHydratedDonationsByNameId($name_id);
 		$this->data['total_amount'] = $this->Donation_Model->getMoneyDonatedByNameId($name_id);
