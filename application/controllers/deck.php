@@ -78,14 +78,14 @@ class Deck extends CI_Controller {
 			$this->session->set_flashdata('message', array('text'=> 'You are trying to donate for a name which does not exist!', 'type' => 'negative'));
 			redirect('/deck');
 		} 
-		if (trim($this->input->post('amount'))<1) {
+		if (trim($this->input->post('donation'))<1) {
 			$this->session->set_flashdata('message', array('text'=> 'The minimum amount for a donation is $1!', 'type' => 'negative'));
 			redirect('/deck/donate/'.$name_id);
 		} 		
 		$options_donation = array(
 			"name_id" => $name_id,
 			"user_id" => $this->data['user_data']['id'],
-			"amount" => trim($this->input->post('amount')),
+			"amount" => trim($this->input->post('donation')),
 			"comment" => trim($this->input->post('comment'))
 			);
 		$this->Donation_Model->createDonation($options_donation);
