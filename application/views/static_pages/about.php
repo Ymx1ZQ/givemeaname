@@ -10,11 +10,12 @@ $this->view("common/header.php");
 <?php
 $this->view("common/navBar.php");
 ?>
-</br></br></br></br></br></br></br></br>
-  <div class="container">
+<div class="container">
 
-      <h1>About Us</h1>
-      <p>Many children in underdeveloped or developing countries don’t have a legal name, so as they 
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+        <h1>About Us</h1>
+        <p>TMany children in underdeveloped or developing countries don’t have a legal name, so as they 
 
 
 
@@ -71,8 +72,12 @@ Since the adoption, GiveMeAName creates a connection between donors and children
 
 
 including in our web pictures, blog posts and videos of every adopted child.</p>
+        
+      </div>
 
-    </div> <!-- /container -->
+
+
+
 
    
   </body>
