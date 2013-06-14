@@ -14,6 +14,7 @@ $this->view("common/navBar.php");
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
+      </br></br></br></br></br></br></br></br>
         <h1>About Us</h1>
         <p>TMany children in underdeveloped or developing countries don’t have a legal name, so as they 
 
