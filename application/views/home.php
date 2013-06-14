@@ -79,6 +79,24 @@ help, we will be able to save a lot of lives.
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
+	<div class="row">
+			<h4>List of names available</h4>
+			<p>These below are the names which have already been proposed: click on the name if you want to donate for this name and give it to a child</p>
+			<?
+				if (!empty($names)) {
+					echo '<ul>';
+					foreach ($names as $name) {
+						echo '<li><a href="/home/view_name/'.$name['id'].'">'.$name['name'].'</a></li>';
+					}
+					echo '</ul>';
+				}
+				else echo '<p>No name has been proposed yet</p>';
+			?>			
+			<br/>
+			<p>Click here if you want to <a href="/home/propose"> propose a new name</a>!</p>
+	</div>
+
+
 
       <!-- START THE FEATURETTES -->
 <!--
