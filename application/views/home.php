@@ -1,6 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <? $this->view("common/header.php"); ?>
   <body>
 
@@ -79,8 +80,52 @@ help, we will be able to save a lot of lives.
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
-
+  <div class="container">
       <!-- START THE FEATURETTES -->
+      <h1>Contact Us</h1>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Mail</th>
+            <th>Available Time</th>
+            <th>Mobile</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Paolo</td>
+            <td>general@givemeaname.org </td>
+            <td>Mon – Fri, 9am – 5pm, PST time</td>
+            <td>+1-800-xxx-xxxx</td>
+          </tr>
+          <tr>
+            <td>Guillermo</td>
+            <td>donation@givemeaname.org</td>
+            <td>Mon – Fri, 9am – 5pm, PST time</td>
+            <td>+1-510-xxx-xxxx</td>
+          </tr>
+          <tr>
+            <td>Celine</td>
+            <td>Volunteer@givemeaname.org</td>
+            <td>Mon – Fri, 9am – 5pm, PST time</td>
+            <td>+1-510-xxx-xxxx</td>
+          </tr>
+          <tr>
+            <td>Neha</td>
+            <td>Charityorg@givemeaname.org</td>
+            <td>Mon – Fri, 9am – 5pm, PST time</td>
+            <td>+1-510-xxx-xxxx</td>
+          </tr>
+          <tr>
+            <td>Alp</td>
+            <td>tech@givemeaname.org</td>
+            <td>Mon – Fri, 9am – 5pm, PST time</td>
+            <td>+1-510-xxx-xxxx</td>
+          </tr>
+        </tbody>
+      </table>
+</div>
 <!--
       <hr class="featurette-divider">
 

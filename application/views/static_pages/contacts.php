@@ -34,7 +34,7 @@ $this->view("common/navBar.php");
             <td>Paolo</td>
             <td>general@givemeaname.org </td>
             <td>Mon – Fri, 9am – 5pm, PST time</td>
-            <td>+1-800-xxx-xxxx +</td>
+            <td>+1-800-xxx-xxxx</td>
           </tr>
           <tr>
             <td>Guillermo</td>
@@ -63,28 +63,7 @@ $this->view("common/navBar.php");
         </tbody>
       </table>
       
-      
-      <p>For General information  Paolo +1-510-xxx-xxxx general@givemeaname.org Mon – Fri, 9am – 5pm, PST time
-
-
-
-+1-800-xxx-xxxx general@givemeaname.org After office hour and weekend
-
-
-
-For Donation Guillermo +1-510-xxx-xxxx donation@givemeaname.org Mon – Fri, 9am – 5pm, PST time
-
-
-
-For Volunteer Celine +1-510-xxx-xxxx Volunteer@givemeaname.org Mon – Fri, 9am – 5pm, PST time
-
-
-
-For Charity organization Neha +1-510-xxx-xxxx Charityorg@givemeaname.org Mon – Fri, 9am – 5pm, PST time
-
-
-
-For Technical web support Alp +1-510-xxx-xxxx Tech@givemeaname.org Mon – Fri, 9am – 5pm, PST time</p>
+     
 
     </div> <!-- /container -->
 
