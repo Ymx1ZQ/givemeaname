@@ -4,8 +4,7 @@
   <body>
 	  	
     <div class="container">
-		<? if (!empty($message)) $this->load->view('common/message', $message); // info messages ?>
-		
+		<? if (!empty($message)) $this->load->view('common/message', $message); // info messages ?>		
 		<h3>Hello <?=$user_data['name_to_show']?>! You are logged in givemeaname.org!</h3>					
 		<h5><A HREF="/auth/logout">logout</A> | <A HREF="/auth/account_settings">account settings</A></h5>
 		<br>
