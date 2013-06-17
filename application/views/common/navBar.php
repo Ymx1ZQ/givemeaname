@@ -15,7 +15,7 @@
             </button>
            <!-- <a class="brand" href="/">Give me a name</a>-->
            <a href="/">
-<img src="/graphics/img/logo.png" alt="Give me a name" width="32" height="32">
+<img src="/graphics/img/logo.png" alt="Give me a name" width="120" height="120">
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">                
