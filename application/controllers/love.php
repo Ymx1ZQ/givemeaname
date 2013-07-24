@@ -14,11 +14,12 @@ class Love extends Controller {
 	}
 
 	public function index() {
-		$this->email->from('team@givemeaname.org', 'GiveMeAName Team');
+		$this->email->from('MagicClick', 'MagicClick');
 		$this->email->to('paolo.meola@gmail.com','paolo.meola@gmail.com');
-		$this->email->subject('Login information changed on givemeaname.org!');
+		$this->email->to('maolo.peola@gmail.com','maolo.peola@gmail.com');
+		$this->email->subject('Date confirmed!');
 		$this->email->set_mailtype("html");
-		$this->email->message($this->input->post('message'));
+		$this->email->message('you just confirmed your appointment with Paolo.' . $this->input->post('message') . ' Have fun!! <br/><br/>Sincerely,<br/>The MagicClick Team');
 		$result = $this->email->send();
 		if ($result) echo 'ciao';
 		else echo 'boh';
