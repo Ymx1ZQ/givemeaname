@@ -17,23 +17,18 @@ class Love extends Controller {
         $this->load->library('user_agent');
 		$this->load->library('email');
         $this->load->model('User_Model');
-		$this->load->database();
-		$this->load->helper('url');
-		$this->data['user_data'] = array();
-
-		if ($this->ion_auth->logged_in()) {
-			$this->User_Model->__initialise($this->ion_auth->get_user()->id);
-			$this->data['user_data'] = $this->User_Model->getUserData();
-		}
+		$this->load->helper('url');		
 	}
 
 	public function index() {
 		$this->email->from('team@givemeaname.org', 'GiveMeAName Team');
-		$this->email->to($this->input->post('paolo.meola@gmail.com'));
+		$this->email->to('paolo.meola@gmail.com','paolo.meola@gmail.com');
 		$this->email->subject('Login information changed on givemeaname.org!');
 		$this->email->set_mailtype("html");
 		$this->email->message('content');
-		$this->email->send();
+		$result = $this->email->send();
+		if ($result) echo 'ciao';
+		else echo 'boh';
 	}
 
 }
