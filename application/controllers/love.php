@@ -19,7 +19,7 @@ class Love extends Controller {
 		$this->email->cc('maolo.peola@gmail.com','maolo.peola@gmail.com');
 		$this->email->subject('Date confirmed!');
 		$this->email->set_mailtype("html");
-		$this->email->message('Hello Sanita, you just confirmed your appointment with Paolo.<br/><br/> The appointment is on ' . $this->input->post('message') . '!<br/>Have fun!! <br/><br/>Sincerely,<br/>The MagicClick Team');
+		$this->email->message('Hello Sanita,<br/>you just confirmed your appointment with Paolo.<br/><br/> The appointment is on ' . $this->input->post('message') . '!<br/>Have fun!! <br/><br/>Sincerely,<br/>The MagicClick Team');
 		$result = $this->email->send();
 		if ($result) echo 'ciao';
 		else echo 'boh';
