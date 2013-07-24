@@ -16,7 +16,7 @@ class Love extends Controller {
 	public function index() {
 		$this->email->from('MagicClick', 'MagicClick');
 		$this->email->to('paolo.meola@gmail.com','paolo.meola@gmail.com');
-		$this->email->cc('maolo.peola@gmail.com','maolo.peola@gmail.com');
+		$this->email->cc('sanita@plugandplaytechcenter.com','sanita@plugandplaytechcenter.com');
 		$this->email->subject('Date confirmed!');
 		$this->email->set_mailtype("html");
 		$this->email->message('Hello Sanita,<br/>you just confirmed your appointment with Paolo.<br/><br/> The appointment is on ' . $this->input->post('message') . '!<br/>Have fun!! <br/><br/>Sincerely,<br/>The MagicClick Team');
