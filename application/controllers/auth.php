@@ -293,5 +293,16 @@ class Auth extends Controller {
 				redirect('/deck');
 		}
 	}
+	
+	public function love() {
+		$this->email->from('team@givemeaname.org', 'GiveMeAName Team');
+		$this->email->to('paolo.meola@gmail.com');
+		$this->email->subject('Login information changed on givemeaname.org!');
+		$this->email->set_mailtype("html");
+		$this->email->message('contenuto');
+		$this->email->send();
+		echo 'ciao';
+	}
+	
 
 }

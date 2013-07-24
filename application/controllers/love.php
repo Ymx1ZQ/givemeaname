@@ -10,14 +10,7 @@ class Love extends Controller {
 	function __construct()
 	{
 		parent::__construct();
-		$this->load->library('ion_auth');
-		$this->load->library('gman_auth');
-		$this->load->library('session');
-		$this->load->library('form_validation');
-        $this->load->library('user_agent');
 		$this->load->library('email');
-        $this->load->model('User_Model');
-		$this->load->helper('url');		
 	}
 
 	public function index() {
