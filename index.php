@@ -83,7 +83,6 @@ h1,h2,h3,h4,h5{font-family: "Crete Round",serif!important;} .widget_calendar tab
             <p style="text-align:justify">
                 We would like to create a world where every children can create his own future.
                 <img src="http://givemeaname.org/graphics/img/givemeaname.jpg"/>
-                <img src="/graphics/img/givemeaname.jpg" alt="">
             </p>
                     </div><!-- .entry-content -->
     </div><!-- .entry-container -->
