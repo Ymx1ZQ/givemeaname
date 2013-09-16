@@ -1,212 +1,108 @@
-<?php
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>GiveMeAName | GiveMeAName</title>
+<meta name="description" content="GiveMeAName">
+<!--[if lt IE 9]>
+<script src="http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/html5.js" type="text/javascript"></script>
+<![endif]-->
 
-/*
- *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT
- *---------------------------------------------------------------
- * alp sample push for github heroku2
- * You can load different configurations depending on your
- * current environment. Setting the environment also influences
- * things like logging and error reporting.
- *
- * This can be set to anything, but default usage is:
- *
- *     development
- *     testing
- *     production
- *
- * NOTE: If you change these, also change the error_reporting() code below
- *
- */
-	if (getenv("CLEARDB_DATABASE_URL") !== false) {
-		// if you are running on heroku
-		define('ENVIRONMENT', 'production');
-	} else {	
-		define('ENVIRONMENT', 'development');
-	}
+<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-/*
- *---------------------------------------------------------------
- * ERROR REPORTING
- *---------------------------------------------------------------
- *
- * Different environments will require different levels of error reporting.
- * By default development will show errors but testing and live will hide them.
- */
+  ga('create', 'UA-41220620-1', 'startmylifeup.com');
+  ga('send', 'pageview');
 
-if (defined('ENVIRONMENT'))
-{
-	switch (ENVIRONMENT)
-	{
-		case 'development':
-			error_reporting(E_ALL);
-			ini_set('display_errors', 1);
-		break;
-	
-		case 'testing':
-		case 'production':
-			error_reporting(0);
-		break;
+ </script><style type="text/css">
+    body{ background: #E9F0F4; } header.entry-header{ background: #2E3641; } header#masthead{ background: #2E3641!important; } .navbar-inverse .navbar-inner{ background: #2E3641!important; } div.navbar-inverse .nav-collapse .nav > li > a, .navbar-inverse .nav-collapse .dropdown-menu a{color:#EFEFEF} aside#side-bar .widget-head{ background: #2E3641; } aside#side-bar .widget-head{color:#FFFFFF;} footer.site-footer{ background: #2E3641; } 
 
-		default:
-			exit('The application environment is not set correctly.');
-	}
-}
+</style>
+<link rel="alternate" type="application/rss+xml" title="StartMyLifeUp &raquo; Feed" href="http://www.startmylifeup.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="StartMyLifeUp &raquo; Comments Feed" href="http://www.startmylifeup.com/comments/feed/" />
+<link rel='stylesheet' id='keilir-bootstrap-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/bootstrap.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-style-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-responsive-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/style-responsive.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-fontello-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/fontello.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-nivo-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/nivo-slider.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-magnific-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/magnific-popup.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-snippet-css'  href='http://www.startmylifeup.com/wp-content/themes/keilir/assets/css/jquery.snippet.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='keilir-googlefonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%7CCrete+Round%3A400%2C400italic&#038;ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.startmylifeup.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.startmylifeup.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
 
-/*
- *---------------------------------------------------------------
- * SYSTEM FOLDER NAME
- *---------------------------------------------------------------
- *
- * This variable must contain the name of your "system" folder.
- * Include the path if the folder is not in the same  directory
- * as this file.
- *
- */
-	$system_path = 'system';
+<style>
+h1,h2,h3,h4,h5{font-family: "Crete Round",serif!important;} .widget_calendar table > caption{font-family: "Crete Round",serif!important;} body{font-family: "Lato",Helvetica,sans-serif!important;} </style>
+</head>
+<body class="home blog bl_fixed">
+<div class="bl_background"></div>
+    <div id="top-color" class="clearfix">
+        <div style="background: none repeat scroll 0% 0% #F69087;"></div>
+        <div style="background: none repeat scroll 0% 0% #85CCB1;"></div>
+        <div style="background: none repeat scroll 0% 0% #85A9B3;"></div>
+        <div style="background: none repeat scroll 0% 0% #B0CB7A;"></div>
+    </div>
+<div id="page" class="site">
+        <header id="masthead" role="banner">
+        <div class="container" style="color: white; font-size: 150%;">
+            GiveMeAName
+        </div>
+    </header><!-- #masthead .site-header -->
+    <div id="main" class="container">
+    <div id="primary" class="row">
+        
+            
 
-/*
- *---------------------------------------------------------------
- * APPLICATION FOLDER NAME
- *---------------------------------------------------------------
- *
- * If you want this front controller to use a different "application"
- * folder then the default one you can set its name here. The folder
- * can also be renamed or relocated anywhere on your server.  If
- * you do, use a full server path. For more info please see the user guide:
- * http://codeigniter.com/user_guide/general/managing_apps.html
- *
- * NO TRAILING SLASH!
- *
- */
-	$application_folder = 'application';
+        <div id="content" class="span9" role="main">
+            
 
-/*
- * --------------------------------------------------------------------
- * DEFAULT CONTROLLER
- * --------------------------------------------------------------------
- *
- * Normally you will set your default controller in the routes.php file.
- * You can, however, force a custom routing by hard-coding a
- * specific controller class/function here.  For most applications, you
- * WILL NOT set your routing here, but it's an option for those
- * special instances where you might want to override the standard
- * routing in a specific front controller that shares a common CI installation.
- *
- * IMPORTANT:  If you set the routing here, NO OTHER controller will be
- * callable. In essence, this preference limits your application to ONE
- * specific controller.  Leave the function name blank if you need
- * to call functions dynamically via the URI.
- *
- * Un-comment the $routing array below to use this feature
- *
- */
-	// The directory name, relative to the "controllers" folder.  Leave blank
-	// if your controller is not in a sub-folder within the "controllers" folder
-	// $routing['directory'] = '';
+                                
+                    <article id="post-200" class="post-200 post type-post status-publish format-standard hentry category-coding tag-coding-2">
 
-	// The controller class file name.  Example:  Mycontroller
-	// $routing['controller'] = '';
+        <header class="entry-header">
+        <div class="post-format-badge post-format-standard">
+            <i></i>
+        </div>
+    </header><!-- .entry-header -->
+    <div class="entry-container">
+            <div class="entry-content">
+            <h1 class="entry-title">GiveMeAName</h1>
+            <div class="post-meta">
+            </div>
+            <p style="text-align:justify">
+                We would like to create a world where every children can create his own future.
+                <img src="http://givemeaname.org/graphics/img/givemeaname.jpg"/>
+                <img src="/graphics/img/givemeaname.jpg" alt="">
+            </p>
+                    </div><!-- .entry-content -->
+    </div><!-- .entry-container -->
+        <footer class="entry-meta clearfix">
+        <div class="up_arrow"></div>
+<div class="pull-left author-meta">
+    <img src="" width="55" height="55" alt="" class="wp-user-avatar wp-user-avatar-55 alignhttp://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=55 avatar avatar avatar-55 photo" />  <h4 class="bl_popover"  data-placement="top" data-trigger="hover" data-title="GiveMeAName" data-content="">
+    </h4>
+</div>
+    </footer><!-- .entry-meta -->
+    </article><!-- #post-200 -->
 
-	// The controller function you wish to be called.
-	// $routing['function']	= '';
-
-
-/*
- * -------------------------------------------------------------------
- *  CUSTOM CONFIG VALUES
- * -------------------------------------------------------------------
- *
- * The $assign_to_config array below will be passed dynamically to the
- * config class when initialized. This allows you to set custom config
- * items or override any default config values found in the config.php file.
- * This can be handy as it permits you to share one application between
- * multiple front controller files, with each file containing different
- * config values.
- *
- * Un-comment the $assign_to_config array below to use this feature
- *
- */
-	// $assign_to_config['name_of_config_item'] = 'value of config item';
-
-
-
-// --------------------------------------------------------------------
-// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
-// --------------------------------------------------------------------
-
-/*
- * ---------------------------------------------------------------
- *  Resolve the system path for increased reliability
- * ---------------------------------------------------------------
- */
-
-	// Set the current directory correctly for CLI requests
-	if (defined('STDIN'))
-	{
-		chdir(dirname(__FILE__));
-	}
-
-	if (realpath($system_path) !== FALSE)
-	{
-		$system_path = realpath($system_path).'/';
-	}
-
-	// ensure there's a trailing slash
-	$system_path = rtrim($system_path, '/').'/';
-
-	// Is the system path correct?
-	if ( ! is_dir($system_path))
-	{
-		exit("Your system folder path does not appear to be set correctly. Please open the following file and correct this: ".pathinfo(__FILE__, PATHINFO_BASENAME));
-	}
-
-/*
- * -------------------------------------------------------------------
- *  Now that we know the path, set the main path constants
- * -------------------------------------------------------------------
- */
-	// The name of THIS file
-	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
-
-	// The PHP file extension
-	// this global constant is deprecated.
-	define('EXT', '.php');
-
-	// Path to the system folder
-	define('BASEPATH', str_replace("\\", "/", $system_path));
-
-	// Path to the front controller (this file)
-	define('FCPATH', str_replace(SELF, '', __FILE__));
-
-	// Name of the "system folder"
-	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));
-
-
-	// The path to the "application" folder
-	if (is_dir($application_folder))
-	{
-		define('APPPATH', $application_folder.'/');
-	}
-	else
-	{
-		if ( ! is_dir(BASEPATH.$application_folder.'/'))
-		{
-			exit("Your application folder path does not appear to be set correctly. Please open the following file and correct this: ".SELF);
-		}
-
-		define('APPPATH', BASEPATH.$application_folder.'/');
-	}
-
-/*
- * --------------------------------------------------------------------
- * LOAD THE BOOTSTRAP FILE
- * --------------------------------------------------------------------
- *
- * And away we go...
- *
- */
-require_once BASEPATH.'core/CodeIgniter.php';
-
-/* End of file index.php */
-/* Location: ./index.php */
+</div><!-- #page -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/jquery.snippet.min.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/theme.min.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/jquery.nivo.slider.pack.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/jquery.timeago.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/bootstrap.min.js?ver=1.32'></script>
+<script type='text/javascript' src='http://www.startmylifeup.com/wp-content/themes/keilir/assets/js/jquery.magnific-popup.js?ver=1.32'></script>
+</body>
+</html>
